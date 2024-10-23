@@ -1,0 +1,23 @@
+<resources>
+    <string name="app">CaseBKPM</string>
+    <string-array name="listviewdata">
+        <item>Ini data pertama</item>
+        <item>Ini data kedua</item>
+        <item>Ini data ketiga</item>
+        <item>Ini data keempat</item>
+        <item>Ini data kelima</item>
+        <item>Ini data keenam</item>
+        <item>Ini data ketuju</item>
+        <item>Ini data kelapan</item>
+        <item>Ini data kesembilan</item>
+        <item>Ini data sepuluh</item>
+        <item>Ini data sebelas</item>
+        <item>Ini data duabelas</item>
+        <item>Ini data tigabelas</item>
+        <item>Ini data patbelas</item>
+        <item>Ini data mabelas</item>
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank">Hello blank fragment</string>
+</resources>
